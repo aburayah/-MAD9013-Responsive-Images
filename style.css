@@ -17,7 +17,6 @@ html {
 }
 
 
-/* -- Baseline Elements --*/
 
 body {
 	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
@@ -34,13 +33,12 @@ p {
 	line-height: 1.75;
 }
 
-wrapper {
+.wrapper {
 	max-width: 1024px;
 	margin: 0 auto;
 }
 
 
-/* -- Header -- */
 
 .banner {
 	background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/5847/viewport-selection-opt.jpg) no-repeat 50% 50%;
@@ -52,7 +50,6 @@ wrapper {
 }
 
 
-/* ----------- Grid --------- */
 
 img {
 	width: 100%;
@@ -79,7 +76,6 @@ img {
 }
 
 
-/* -------------------------- */
 
 .col-container {
 	margin: 3rem 0;
